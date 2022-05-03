@@ -4,12 +4,7 @@
   <groupId>org.bridgedb.webservice</groupId>
   <artifactId>org.bridgedb.webservice.biomart</artifactId>
   <name>BridgeDb Webservice Biomart</name>
-  
-  <parent>
-  	<artifactId>bridgedb-bundle</artifactId>
-  	<groupId>org.bridgedb</groupId>
-  	<version>3.0.14-SNAPSHOT</version>
-  </parent>
+  <version>3.0.14-SNAPSHOT</version>
 
 	<build>
 		<directory>target</directory>
